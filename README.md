@@ -72,7 +72,7 @@ Portfolio\_Web/
 
 ## 📫 Contact Me
 
-- 📧 Email: [chandansai34@gmail.com](chandansai34@gmail.com)
+- 📧 Email: [chandansai34@gmail.com](mailto:chandansai34@gmail.com)
 - 🐙 GitHub: [@Sai942](https://github.com/Sai942)
 - 🔗 LinkedIn: [Sai chandan](https://www.linkedin.com/in/sai-chandan-1a7754306)
 - 📸 Instagram: [@datboii_sai_](https://www.instagram.com/datboii_sai_?igsh=cTNvNnYydHdqMzdt)
